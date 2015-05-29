@@ -1,0 +1,6 @@
+com\test\spring\StudentController.class
+com\test\spring\service\StudentService.class
+com\test\spring\model\Student.class
+com\test\spring\dao\StudentDAOImpl.class
+com\test\spring\service\StudentServiceImpl.class
+com\test\spring\dao\StudentDAO.class
